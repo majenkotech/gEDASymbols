@@ -1,0 +1,50 @@
+v 20130925 2
+B 200 200 1000 750 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 700 200 700 1 0 0
+{
+T 50 700 5 10 0 0 0 0 1
+pintype=unknown
+T 255 695 5 10 1 1 0 0 1
+pinlabel=Vin
+T 105 745 5 10 1 1 0 6 1
+pinnumber=3
+T 50 700 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1400 700 1200 700 1 0 0
+{
+T 1350 700 5 10 0 0 0 0 1
+pintype=unknown
+T 1145 695 5 10 1 1 0 6 1
+pinlabel=Vout
+T 1295 745 5 10 1 1 0 0 1
+pinnumber=2
+T 1350 700 5 10 0 0 0 0 1
+pinseq=0
+}
+P 700 0 700 200 1 0 0
+{
+T 700 50 5 10 0 0 0 0 1
+pintype=unknown
+T 700 255 5 10 1 1 90 0 1
+pinlabel=GND
+T 650 105 5 10 1 1 90 6 1
+pinnumber=1
+T 700 50 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1400 400 1200 400 1 0 0
+{
+T 1350 400 5 10 0 0 0 0 1
+pintype=unknown
+T 1145 395 5 10 1 1 0 6 1
+pinlabel=Vout
+T 1295 445 5 10 1 1 0 0 1
+pinnumber=4
+T 1350 400 5 10 0 0 0 0 1
+pinseq=0
+}
+T 50 1000 8 10 1 1 0 0 1
+device=AP1117E33G-13
+T 1000 0 8 10 1 1 0 0 1
+refdes=U?

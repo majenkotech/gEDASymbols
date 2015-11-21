@@ -1,0 +1,105 @@
+v 20130925 2
+P 4200 2200 3800 2200 1 0 0
+{
+T 4200 2200 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 2200 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2195 5 10 1 1 0 6 1
+pinlabel=EBIA8/RPF5/SCL5/PMA8/RF5
+T 3895 2245 5 10 1 1 0 0 1
+pinnumber=65
+}
+P 4200 3200 3800 3200 1 0 0
+{
+T 4200 3200 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 3200 5 10 0 0 90 0 1
+pinseq=0
+T 3745 3195 5 10 1 1 0 6 1
+pinlabel=EBID11/RPF0/PMD11/RF0
+T 3895 3245 5 10 1 1 0 0 1
+pinnumber=85
+}
+P 4200 3000 3800 3000 1 0 0
+{
+T 4200 3000 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 3000 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2995 5 10 1 1 0 6 1
+pinlabel=EBID10/RPF1/PMD10/RF1
+T 3895 3045 5 10 1 1 0 0 1
+pinnumber=86
+}
+P 4200 2800 3800 2800 1 0 0
+{
+T 4200 2800 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 2800 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2795 5 10 1 1 0 6 1
+pinlabel=EBIRDY3/RPF2/SDA3/RF2
+T 3895 2845 5 10 1 1 0 0 1
+pinnumber=57
+}
+P 4200 2600 3800 2600 1 0 0
+{
+T 4200 2600 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 2600 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2595 5 10 1 1 0 6 1
+pinlabel=RPF3/USBID/RF3
+T 3895 2645 5 10 1 1 0 0 1
+pinnumber=56
+}
+P 4200 2400 3800 2400 1 0 0
+{
+T 4200 2400 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 2400 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2395 5 10 1 1 0 6 1
+pinlabel=EBIA9/RPF4/SDA5/PMA9/RF4
+T 3895 2445 5 10 1 1 0 0 1
+pinnumber=64
+}
+P 4200 1600 3800 1600 1 0 0
+{
+T 4200 1600 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 1600 5 10 0 0 90 0 1
+pinseq=0
+T 3745 1595 5 10 1 1 0 6 1
+pinlabel=EBIRDY2/RPF8/SCL3/RF8
+T 3895 1645 5 10 1 1 0 0 1
+pinnumber=58
+}
+P 4200 800 3800 800 1 0 0
+{
+T 4200 800 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 800 5 10 0 0 90 0 1
+pinseq=0
+T 3745 795 5 10 1 1 0 6 1
+pinlabel=TDO/EBIA17/AN31/RPF12/RF12
+T 3895 845 5 10 1 1 0 0 1
+pinnumber=40
+}
+P 4200 600 3800 600 1 0 0
+{
+T 4200 600 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 600 5 10 0 0 90 0 1
+pinseq=0
+T 3745 595 5 10 1 1 0 6 1
+pinlabel=TDI/EBIA18/AN30/RPF13/SCK5/RF13
+T 3895 645 5 10 1 1 0 0 1
+pinnumber=39
+}
+B 0 0 3800 3500 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 0 3600 8 10 1 1 0 0 1
+device=PORT F
+T 3600 3600 8 10 1 1 0 0 1
+refdes=U?

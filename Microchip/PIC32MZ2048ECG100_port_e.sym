@@ -1,0 +1,116 @@
+v 20130925 2
+P 4200 2200 3800 2200 1 0 0
+{
+T 4200 2200 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 2195 5 10 1 1 0 6 1
+pinlabel=EBID5/AN17/RPE5/PMD5/RE5
+T 3895 2245 5 10 1 1 0 0 1
+pinnumber=3
+T 4200 2200 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 2000 3800 2000 1 0 0
+{
+T 4200 2000 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1995 5 10 1 1 0 6 1
+pinlabel=EBID6/AN16/PMD6/RE6
+T 3895 2045 5 10 1 1 0 0 1
+pinnumber=4
+T 4200 2000 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 1800 3800 1800 1 0 0
+{
+T 4200 1800 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1795 5 10 1 1 0 6 1
+pinlabel=EBID7/AN15/PMD7/RE7
+T 3895 1845 5 10 1 1 0 0 1
+pinnumber=5
+T 4200 1800 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 3200 3800 3200 1 0 0
+{
+T 4200 3200 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 3200 5 10 0 0 90 0 1
+pinseq=0
+T 3745 3195 5 10 1 1 0 6 1
+pinlabel=EBID0/PMD0/RE0
+T 3895 3245 5 10 1 1 0 0 1
+pinnumber=91
+}
+P 4200 3000 3800 3000 1 0 0
+{
+T 4200 3000 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 3000 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2995 5 10 1 1 0 6 1
+pinlabel=EBID1/PMD1/RE1
+T 3895 3045 5 10 1 1 0 0 1
+pinnumber=94
+}
+P 4200 2800 3800 2800 1 0 0
+{
+T 4200 2800 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 2800 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2795 5 10 1 1 0 6 1
+pinlabel=EBID2/PMD2/RE2
+T 3895 2845 5 10 1 1 0 0 1
+pinnumber=98
+}
+P 4200 2600 3800 2600 1 0 0
+{
+T 4200 2600 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 2600 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2595 5 10 1 1 0 6 1
+pinlabel=EBID3/RPE3/PMD3/RE3
+T 3895 2645 5 10 1 1 0 0 1
+pinnumber=99
+}
+P 4200 2400 3800 2400 1 0 0
+{
+T 4200 2400 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 2400 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2395 5 10 1 1 0 6 1
+pinlabel=EBID4/AN18/PMD4/RE4
+T 3895 2445 5 10 1 1 0 0 1
+pinnumber=100
+}
+P 4200 1600 3800 1600 1 0 0
+{
+T 4200 1600 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 1600 5 10 0 0 90 0 1
+pinseq=0
+T 3745 1595 5 10 1 1 0 6 1
+pinlabel=AN25/RPE8/RE8
+T 3895 1645 5 10 1 1 0 0 1
+pinnumber=18
+}
+P 4200 1400 3800 1400 1 0 0
+{
+T 4200 1400 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 1400 5 10 0 0 90 0 1
+pinseq=0
+T 3745 1395 5 10 1 1 0 6 1
+pinlabel=AN26/RPE9/RE9
+T 3895 1445 5 10 1 1 0 0 1
+pinnumber=19
+}
+B 0 0 3800 3500 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 0 3600 8 10 1 1 0 0 1
+device=PORT E
+T 3600 3600 8 10 1 1 0 0 1
+refdes=U?

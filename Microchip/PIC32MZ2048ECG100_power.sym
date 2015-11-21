@@ -1,0 +1,204 @@
+v 20130925 2
+B 300 400 3700 2200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 3700 3000 3700 2600 1 0 0
+{
+T 3700 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 3700 2545 5 10 1 1 90 6 1
+pinlabel=VDD
+T 3650 2695 5 10 1 1 90 0 1
+pinnumber=93
+T 3700 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 3400 3000 3400 2600 1 0 0
+{
+T 3400 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 3400 2545 5 10 1 1 90 6 1
+pinlabel=VDD
+T 3350 2695 5 10 1 1 90 0 1
+pinnumber=83
+T 3400 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 3100 3000 3100 2600 1 0 0
+{
+T 3100 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 3100 2545 5 10 1 1 90 6 1
+pinlabel=VDD
+T 3050 2695 5 10 1 1 90 0 1
+pinnumber=74
+T 3100 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 2800 3000 2800 2600 1 0 0
+{
+T 2800 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 2800 2545 5 10 1 1 90 6 1
+pinlabel=VDD
+T 2750 2695 5 10 1 1 90 0 1
+pinnumber=62
+T 2800 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 2500 3000 2500 2600 1 0 0
+{
+T 2500 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 2500 2545 5 10 1 1 90 6 1
+pinlabel=VDD
+T 2450 2695 5 10 1 1 90 0 1
+pinnumber=46
+T 2500 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 2200 3000 2200 2600 1 0 0
+{
+T 2200 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 2200 2545 5 10 1 1 90 6 1
+pinlabel=VDD
+T 2150 2695 5 10 1 1 90 0 1
+pinnumber=37
+T 2200 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 1900 3000 1900 2600 1 0 0
+{
+T 1900 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 1900 2545 5 10 1 1 90 6 1
+pinlabel=VDD
+T 1850 2695 5 10 1 1 90 0 1
+pinnumber=14
+T 1900 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 700 3000 700 2600 1 0 0
+{
+T 700 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 700 2545 5 10 1 1 90 6 1
+pinlabel=AVDD
+T 650 2695 5 10 1 1 90 0 1
+pinnumber=30
+T 700 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 1300 3000 1300 2600 1 0 0
+{
+T 1300 3000 5 10 0 0 180 0 1
+pintype=unknown
+T 1300 2545 5 10 1 1 90 6 1
+pinlabel=VUSB3V3
+T 1250 2695 5 10 1 1 90 0 1
+pinnumber=52
+T 1300 3000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 700 0 700 400 1 0 0
+{
+T 700 0 5 10 0 0 0 0 1
+pintype=unknown
+T 700 455 5 10 1 1 90 0 1
+pinlabel=AVSS
+T 650 305 5 10 1 1 90 6 1
+pinnumber=31
+T 700 0 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1600 0 1600 400 1 0 0
+{
+T 1600 0 5 10 0 0 0 0 1
+pintype=unknown
+T 1600 455 5 10 1 1 90 0 1
+pinlabel=VSS
+T 1550 305 5 10 1 1 90 6 1
+pinnumber=13
+T 1600 0 5 10 0 0 0 0 1
+pinseq=0
+}
+P 1900 0 1900 400 1 0 0
+{
+T 1900 0 5 10 0 0 0 0 1
+pintype=unknown
+T 1900 455 5 10 1 1 90 0 1
+pinlabel=VSS
+T 1850 305 5 10 1 1 90 6 1
+pinnumber=36
+T 1900 0 5 10 0 0 0 0 1
+pinseq=0
+}
+P 2200 0 2200 400 1 0 0
+{
+T 2200 0 5 10 0 0 0 0 1
+pintype=unknown
+T 2200 455 5 10 1 1 90 0 1
+pinlabel=VSS
+T 2150 305 5 10 1 1 90 6 1
+pinnumber=45
+T 2200 0 5 10 0 0 0 0 1
+pinseq=0
+}
+P 2500 0 2500 400 1 0 0
+{
+T 2500 0 5 10 0 0 0 0 1
+pintype=unknown
+T 2500 455 5 10 1 1 90 0 1
+pinlabel=VSS
+T 2450 305 5 10 1 1 90 6 1
+pinnumber=53
+T 2500 0 5 10 0 0 0 0 1
+pinseq=0
+}
+P 2800 0 2800 400 1 0 0
+{
+T 2800 0 5 10 0 0 0 0 1
+pintype=unknown
+T 2800 455 5 10 1 1 90 0 1
+pinlabel=VSS
+T 2750 305 5 10 1 1 90 6 1
+pinnumber=63
+T 2800 0 5 10 0 0 0 0 1
+pinseq=0
+}
+P 3100 0 3100 400 1 0 0
+{
+T 3100 0 5 10 0 0 0 0 1
+pintype=unknown
+T 3100 455 5 10 1 1 90 0 1
+pinlabel=VSS
+T 3050 305 5 10 1 1 90 6 1
+pinnumber=75
+T 3100 0 5 10 0 0 0 0 1
+pinseq=0
+}
+P 3400 0 3400 400 1 0 0
+{
+T 3400 0 5 10 0 0 0 0 1
+pintype=unknown
+T 3400 455 5 10 1 1 90 0 1
+pinlabel=VSS
+T 3350 305 5 10 1 1 90 6 1
+pinnumber=84
+T 3400 0 5 10 0 0 0 0 1
+pinseq=0
+}
+P 3700 0 3700 400 1 0 0
+{
+T 3700 0 5 10 0 0 0 0 1
+pintype=unknown
+T 3700 455 5 10 1 1 90 0 1
+pinlabel=VSS
+T 3650 305 5 10 1 1 90 6 1
+pinnumber=92
+T 3700 0 5 10 0 0 0 0 1
+pinseq=0
+}
+T 200 400 8 10 1 1 90 0 1
+device=POWER
+T 200 2300 8 10 1 1 90 0 1
+refdes=U?

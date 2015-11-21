@@ -1,0 +1,116 @@
+v 20130925 2
+P 4200 1600 3800 1600 1 0 0
+{
+T 4200 1600 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1595 5 10 1 1 0 6 1
+pinlabel=EBIA3/AN12/C2IND/RPG8/SCL4/PMA3/RG8
+T 3895 1645 5 10 1 1 0 0 1
+pinnumber=12
+T 4200 1600 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 1800 3800 1800 1 0 0
+{
+T 4200 1800 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1795 5 10 1 1 0 6 1
+pinlabel=EBIA4/AN13/C1INC/RPG7/SDA4/PMA4/RG7
+T 3895 1845 5 10 1 1 0 0 1
+pinnumber=7
+T 4200 1800 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 2000 3800 2000 1 0 0
+{
+T 4200 2000 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1995 5 10 1 1 0 6 1
+pinlabel=AN14/C1IND/RPG6/SCK2/RG6
+T 3895 2045 5 10 1 1 0 0 1
+pinnumber=10
+T 4200 2000 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 1400 3800 1400 1 0 0
+{
+T 4200 1400 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1395 5 10 1 1 0 6 1
+pinlabel=EBIA2/AN11/C2INC//RPG9/PMA2/RG9
+T 3895 1445 5 10 1 1 0 0 1
+pinnumber=16
+T 4200 1400 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 200 3800 200 1 0 0
+{
+T 4200 200 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 195 5 10 1 1 0 6 1
+pinlabel=AN23/RG15
+T 3895 245 5 10 1 1 0 0 1
+pinnumber=1
+T 4200 200 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 3200 3800 3200 1 0 0
+{
+T 4200 3200 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 3200 5 10 0 0 90 0 1
+pinseq=0
+T 3745 3195 5 10 1 1 0 6 1
+pinlabel=EBID8/RPG0/PMD8/RG0
+T 3895 3245 5 10 1 1 0 0 1
+pinnumber=88
+}
+B 0 0 3800 3500 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 4200 3000 3800 3000 1 0 0
+{
+T 4200 3000 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 3000 5 10 0 0 90 0 1
+pinseq=0
+T 3745 2995 5 10 1 1 0 6 1
+pinlabel=EBID9//RPG1/PMD9/RG1
+T 3895 3045 5 10 1 1 0 0 1
+pinnumber=87
+}
+P 4200 800 3800 800 1 0 0
+{
+T 4200 800 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 800 5 10 0 0 90 0 1
+pinseq=0
+T 3745 795 5 10 1 1 0 6 1
+pinlabel=TRD1/SQID1/RG12
+T 3895 845 5 10 1 1 0 0 1
+pinnumber=96
+}
+P 4200 600 3800 600 1 0 0
+{
+T 4200 600 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 600 5 10 0 0 90 0 1
+pinseq=0
+T 3745 595 5 10 1 1 0 6 1
+pinlabel=TRD0/SQID0/RG13
+T 3895 645 5 10 1 1 0 0 1
+pinnumber=97
+}
+P 4200 400 3800 400 1 0 0
+{
+T 4200 400 5 10 0 0 90 0 1
+pintype=unknown
+T 4200 400 5 10 0 0 90 0 1
+pinseq=0
+T 3745 395 5 10 1 1 0 6 1
+pinlabel=TRD2/SQID2/RG14
+T 3895 445 5 10 1 1 0 0 1
+pinnumber=95
+}
+T 0 3600 8 10 1 1 0 0 1
+device=PORT G
+T 3600 3600 8 10 1 1 0 0 1
+refdes=U?

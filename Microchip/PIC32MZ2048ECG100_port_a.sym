@@ -1,0 +1,138 @@
+v 20130925 2
+P 4200 2200 3800 2200 1 0 0
+{
+T 4200 2200 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 2195 5 10 1 1 0 6 1
+pinlabel=EBIA5/AN34/PMA5/RA5
+T 3895 2245 5 10 1 1 0 0 1
+pinnumber=2
+T 4200 2200 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 3200 3800 3200 1 0 0
+{
+T 4200 3200 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 3195 5 10 1 1 0 6 1
+pinlabel=TMS/EBIA16/AN24/RA0
+T 3895 3245 5 10 1 1 0 0 1
+pinnumber=17
+T 4200 3200 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 3000 3800 3000 1 0 0
+{
+T 4200 3000 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 2995 5 10 1 1 0 6 1
+pinlabel=TCK/EBIA19/AN29/RA1
+T 3895 3045 5 10 1 1 0 0 1
+pinnumber=38
+T 4200 3000 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 2800 3800 2800 1 0 0
+{
+T 4200 2800 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 2795 5 10 1 1 0 6 1
+pinlabel=EBICS0/SCL2/RA2
+T 3895 2845 5 10 1 1 0 0 1
+pinnumber=59
+T 4200 2800 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 2600 3800 2600 1 0 0
+{
+T 4200 2600 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 2595 5 10 1 1 0 6 1
+pinlabel=EBIRDY1/SDA2/RA3
+T 3895 2645 5 10 1 1 0 0 1
+pinnumber=60
+T 4200 2600 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 2400 3800 2400 1 0 0
+{
+T 4200 2400 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 2395 5 10 1 1 0 6 1
+pinlabel=EBIA14/PMCS1/PMA14/RA4
+T 3895 2445 5 10 1 1 0 0 1
+pinnumber=61
+T 4200 2400 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 2000 3800 2000 1 0 0
+{
+T 4200 2000 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1995 5 10 1 1 0 6 1
+pinlabel=TRCLK/SQICLK/RA6
+T 3895 2045 5 10 1 1 0 0 1
+pinnumber=89
+T 4200 2000 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 1800 3800 1800 1 0 0
+{
+T 4200 1800 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1795 5 10 1 1 0 6 1
+pinlabel=TRD3/SQID3/RA7
+T 3895 1845 5 10 1 1 0 0 1
+pinnumber=90
+T 4200 1800 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 1400 3800 1400 1 0 0
+{
+T 4200 1400 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1395 5 10 1 1 0 6 1
+pinlabel=Vref-/CVref-/AN27/RA9
+T 3895 1445 5 10 1 1 0 0 1
+pinnumber=28
+T 4200 1400 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 1200 3800 1200 1 0 0
+{
+T 4200 1200 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 1195 5 10 1 1 0 6 1
+pinlabel=Vref+/CVref+/AN28/RA10
+T 3895 1245 5 10 1 1 0 0 1
+pinnumber=29
+T 4200 1200 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 400 3800 400 1 0 0
+{
+T 4200 400 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 395 5 10 1 1 0 6 1
+pinlabel=RPA14/SCL1/RA14
+T 3895 445 5 10 1 1 0 0 1
+pinnumber=66
+T 4200 400 5 10 0 0 90 0 1
+pinseq=0
+}
+P 4200 200 3800 200 1 0 0
+{
+T 4200 200 5 10 0 0 90 0 1
+pintype=unknown
+T 3745 195 5 10 1 1 0 6 1
+pinlabel=RPA15/SDA1/RA15
+T 3895 245 5 10 1 1 0 0 1
+pinnumber=67
+T 4200 200 5 10 0 0 90 0 1
+pinseq=0
+}
+B 0 0 3800 3500 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 0 3600 8 10 1 1 0 0 1
+device=PORT A
+T 3500 3600 8 10 1 1 0 0 1
+refdes=U?
